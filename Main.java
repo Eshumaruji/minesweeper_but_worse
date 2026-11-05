@@ -2,7 +2,6 @@ import java.awt.EventQueue;
 import javax.swing.JFrame;
 import javax.swing.UIManager;
 import javax.swing.JOptionPane;
-
 public class Main{
     public static void main(String[] args){
         EventQueue.invokeLater(() ->{
